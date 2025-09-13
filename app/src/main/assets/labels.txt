@@ -1,0 +1,23 @@
+battery
+bp monitoring machine
+camera
+cpu
+drone
+electric guitar
+electric piano
+fan
+flash light
+geyser
+glucometer
+iron
+laptop
+light bulb
+microwave
+monitor
+mouse
+pendrive
+phone
+projector
+refridgerator
+solar panel
+washing machine
